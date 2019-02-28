@@ -13,10 +13,9 @@
 4. NTAMBARA Samson
 
 ## 3
-1. Anup Khanal
-2. Kidus
-3. Aydin
-4. Ariful Imam
+1. Kidus
+2. Aydin
+3. Ariful Imam
 
 ## 4
 1. Ramesh Krishnan Gurusamy
@@ -31,3 +30,6 @@
 ## 6
 1. Harpinder Singh
 2. Yoginkumar Vaniya
+
+##7
+Anup khanal
